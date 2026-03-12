@@ -76,13 +76,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>LION TECH ACADEMY Releases Nexus Repository</name>
-	      <url>http://56.155.122.12:8081/repository/Abby/</url>
+	      <url>http://15.152.1.142:8081/repository/Abby/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>LION TECH ACADEMY Snapshot Nexus Repository </name>
-	      <url>http://56.155.122.12:8081/repository/Abby-snapshot/</url>
+	      <url>http://15.152.1.142:8081/repository/Abby-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
