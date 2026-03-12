@@ -33,11 +33,11 @@ public class CustomerLoginServlet extends HttpServlet {
 
                 RequestDispatcher rd = req.getRequestDispatcher("CustomerHome.html");
                 rd.include(req, res);
-                pw.println("    <div id=\"topmid\"><h1>welcome to Khally"s Book store to liontech <br>Book Store</h1></div>\r\n"
+                pw.println("    <div id=\"topmid\"><h1>Welcome to liontech Book Store store to liontech <br>Book Store</h1></div>\r\n"
                         + "    <br>\r\n"
                         + "    <table class=\"tab\">\r\n"
                         + "        <tr>\r\n"
-                        + "            <td><p>welcome to Khally"s Book store "+user.getFirstName()+", Happy Learning !!</p></td>\r\n"
+                        + "            <td><p>Welcome to liontech Book Store store "+user.getFirstName()+", Happy Learning !!</p></td>\r\n"
                         + "        </tr>\r\n"
                         + "    </table>");
 

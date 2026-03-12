@@ -155,8 +155,8 @@
 		<location>/error</location>
 	</error-page>
 
-	<!-- welcome to Khally"s Book store file -->
-	<welcome to Khally"s Book store-file-list>
-		<welcome to Khally"s Book store-file>index.html</welcome to Khally"s Book store-file>
-	</welcome to Khally"s Book store-file-list>
+	<!-- Welcome to liontech Book Store store file -->
+	<Welcome to liontech Book Store store-file-list>
+		<Welcome to liontech Book Store store-file>index.html</Welcome to liontech Book Store store-file>
+	</Welcome to liontech Book Store store-file-list>
 </web-app>
